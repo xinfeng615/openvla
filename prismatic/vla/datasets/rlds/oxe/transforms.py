@@ -948,6 +948,7 @@ OXE_STANDARDIZATION_TRANSFORMS = {
     "libero_10_no_noops": libero_dataset_transform,
     ### metaworld datasets (modified versions)
     "metaworld_ml10_50e": metaworld_dataset_transform,
+    "metaworld_ml1_50e": metaworld_dataset_transform,
     "metaworld_ml10_100e": metaworld_dataset_transform,
     "metaworld_ml45_50e": metaworld_dataset_transform,
     "metaworld_ml45_100e": metaworld_dataset_transform,
